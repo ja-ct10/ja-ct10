@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ja-ct10
-- 👀 I’m interested in ...
+- 👀 I'm an IT student studying in STI College
 - 🌱 I’m currently learning Java and Python. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can direct message me on Instagram
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact about me is that I can play piano...tiles
 
 <!---
 ja-ct10/ja-ct10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
