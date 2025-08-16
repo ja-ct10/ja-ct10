@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ja-ct10
-- 👀 I'm currently in my 2nd year as IT student.
-- 🌱 I’m currently learning Java, Python, and C#. 
-- 😄 Pronouns: she/her
+- 👀 I'm currently in my 3rd year as IT student.
+- 🌱 Have some background knowledge in Java, Python, C#, and SQL. 
+- 😄 Wanting to become a Data Analyst or Software Developer
 - ⚡ I love to read and play online games.
 
 <!---
