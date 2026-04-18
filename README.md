@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ja-ct10
-- 👀 I'm currently in my 3rd year as IT student.
-- 🌱 Have some background knowledge in Java, Python, C#, and SQL. 
-- 😄 Wanting to become a Data Analyst or Software Developer
-- ⚡ I love to read and play online games.
+Hi! I’m Julie Ann, a 3rd-year BSIT student.
 
-<!---
-ja-ct10/ja-ct10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I aspire to become a cybersecurity professional, database administrator, or backend developer. I have experience working with Java, C#, Python, HTML/CSS, JavaScript, Node.js, and SQL, and I also build mobile applications.
+
+Some of the projects I’ve worked on include:
+
+A web-based enrollment system using PHP Laravel and MySQL
+A mobile-based barangay system using Android Studio and Firebase as the database
+
+I am currently working on a SaaS-based CRM system, which is helping me improve my backend development and database design skills, as I am also responsible for creating the ERD for the system.
