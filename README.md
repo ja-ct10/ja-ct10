@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://ja-ct10.github.io/ja-ct10/binary_portrait_animated.html">
-<img src="binary_portrait.png" width="420" alt="Julie Ann - Binary Portrait" />
-</a>
+
+<img src="binary_portrait.gif" width="420" alt="Julie Ann - Binary Portrait" />
+
 
 <br/>
-<sub><i>✨ Click the portrait to view the animated version</i></sub>
+
 
 </div>
 
