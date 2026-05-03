@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="binary_portrait.gif" width="420" alt="Julie Ann - Binary Portrait" />
+<img src="binary_portrait.gif" width="600" alt="Julie Ann - Binary Portrait" />
 
 
 <br/>
